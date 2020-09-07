@@ -2,9 +2,9 @@ import javax.swing.JFrame;
 
 
 
-public class RectangleViewer
+public class FaceViewer
 
- {
+{
 
 public static void main(String[] args)
 
@@ -12,18 +12,19 @@ public static void main(String[] args)
 
 JFrame frame = new JFrame();
 
+frame.setSize(150, 250);
 
-
-frame.setSize(400, 400);
-
-frame.setTitle("Two rectangles");
+frame.setTitle("An Alien Face");
 
 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 
-RectangleComponent component = new RectangleComponent();
+
+FaceComponent component = new FaceComponent();
 
 frame.add(component);
+
+
 
 frame.setVisible(true);
 

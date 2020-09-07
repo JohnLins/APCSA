@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FaceComponent
+comment0.text=\r\n\r\nA\ component\ that\ draws\ an\ alien\ face\r\n\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2
