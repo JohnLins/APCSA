@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JohnsGregorianCalendar
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=dayNum
+comment2.target=java.lang.String\ Weekday(int)
+numComments=3
