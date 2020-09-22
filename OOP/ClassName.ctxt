@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ClassName
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ All\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ClassName()
+comment1.text=Constructor\ (\r\n\ \ \ \ It\ initalizes\ objects,\r\n\ \ \ \ Sets\ the\ initial\ data\ for\ the\ objects,\r\n\ \ \ \ The\ name\ for\ the\ constructor\ is\ always\ the\ same\ as\ the\ name\ of\ the\ class,\r\n\ \ \ \ It\ has\ no\ return\ type\r\n
+comment2.params=y
+comment2.target=void\ add(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=y
+comment3.target=void\ sub(int)
+comment4.params=
+comment4.target=int\ show()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
