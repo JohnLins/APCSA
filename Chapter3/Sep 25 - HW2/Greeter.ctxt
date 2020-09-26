@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Greeter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Greeter\ here.\r\n\r\n\ @author\ (John\ Lins)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nameEnter
+comment1.target=Greeter(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ sayHello()
+comment3.params=
+comment3.target=java.lang.String\ sayGoodbye()
+comment4.params=
+comment4.target=java.lang.String\ refuseHelp()
+numComments=5
