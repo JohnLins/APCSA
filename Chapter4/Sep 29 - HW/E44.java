@@ -4,9 +4,7 @@ import java.util.Formatter;
 
 public class E44 {
 
-
-    
-    
+public static void main(String[] args){
 
     Scanner num = new Scanner(System.in);  
     
