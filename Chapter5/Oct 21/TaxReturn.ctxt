@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TaxReturn
+comment1.params=anIncome\ aStatus
+comment1.target=TaxReturn(double,\ int)
+comment2.params=
+comment2.target=double\ getTax()
+numComments=3
