@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Investment
+comment1.params=aBalance\ aRate
+comment1.target=Investment(double,\ double)
+comment2.params=targetBalance
+comment2.target=void\ waitForBalance(double)
+comment3.params=numberOfYears
+comment3.target=void\ waitYears(int)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=
+comment5.target=int\ getYears()
+numComments=6

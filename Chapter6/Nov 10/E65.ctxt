@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=E65
+comment1.params=
+comment1.target=E65()
+comment2.params=value
+comment2.target=void\ addValue(double)
+comment3.params=
+comment3.target=double\ getAverage()
+comment4.params=
+comment4.target=double\ getSmallest()
+comment5.params=
+comment5.target=double\ getLargest()
+comment6.params=
+comment6.target=double\ getRange()
+numComments=7
