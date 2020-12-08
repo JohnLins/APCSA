@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sequence
+comment1.params=size
+comment1.target=Sequence(int)
+comment2.params=i\ n
+comment2.target=void\ set(int,\ int)
+comment3.params=other
+comment3.target=boolean\ equals(Sequence)
+comment4.params=other
+comment4.target=boolean\ sameValues(Sequence)
+comment5.params=other
+comment5.target=boolean\ isPermutationOf(Sequence)
+numComments=6
