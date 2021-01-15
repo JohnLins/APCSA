@@ -8,4 +8,6 @@ comment3.params=
 comment3.target=java.lang.String\ toString()
 comment4.params=other
 comment4.target=Sequence\ append(Sequence)
-numComments=5
+comment5.params=other
+comment5.target=Sequence\ merge(Sequence)
+numComments=6

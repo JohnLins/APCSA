@@ -28,6 +28,17 @@ public class Sequence
         return valuesTemp;
     }
     
+    public Sequence merge(Sequence other){
+        Sequence valuesTemp = new Sequence();
+        
+        for(int i = 0; i < values.size(); i++){
+            valuesTemp.add(values.get(i));
+            valuesTemp.add(other.values.get(i));
+        }
+        return valuesTemp;
+        
+    }
+    
 }
 
 
