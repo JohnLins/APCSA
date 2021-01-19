@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Geometry
+comment1.params=h
+comment1.target=double\ cubeVolume(double)
+comment2.params=h
+comment2.target=double\ cubeSurface(double)
+comment3.params=r
+comment3.target=double\ sphereVolume(double)
+comment4.params=r
+comment4.target=double\ sphereSurface(double)
+comment5.params=r\ h
+comment5.target=double\ cylinderVolume(double,\ double)
+comment6.params=r\ h
+comment6.target=double\ cylinderSurface(double,\ double)
+comment7.params=r\ h
+comment7.target=double\ coneVolume(double,\ double)
+comment8.params=r\ h
+comment8.target=double\ coneSurface(double,\ double)
+numComments=9
