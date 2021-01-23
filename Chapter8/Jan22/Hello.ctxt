@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hello
+comment1.params=
+comment1.target=Hello()
+comment2.params=g2
+comment2.target=void\ drawH(java.awt.Graphics2D)
+comment3.params=g2
+comment3.target=void\ drawE(java.awt.Graphics2D)
+comment4.params=g2
+comment4.target=void\ drawLL(java.awt.Graphics2D)
+comment5.params=g2
+comment5.target=void\ drawO(java.awt.Graphics2D)
+numComments=6
