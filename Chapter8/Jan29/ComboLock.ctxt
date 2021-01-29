@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ComboLock
+comment1.params=secret1\ secret2\ secret3
+comment1.target=ComboLock(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=ticks
+comment3.target=void\ turnLeft(int)
+comment4.params=ticks
+comment4.target=void\ turnRight(int)
+comment5.params=
+comment5.target=boolean\ open()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
