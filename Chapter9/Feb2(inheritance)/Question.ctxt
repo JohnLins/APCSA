@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Question
+comment1.params=
+comment1.target=Question()
+comment2.params=questionText
+comment2.target=void\ setText(java.lang.String)
+comment3.params=correctResponse
+comment3.target=void\ setAnswer(java.lang.String)
+comment4.params=response
+comment4.target=boolean\ checkAnswer(java.lang.String)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
