@@ -35,6 +35,13 @@ public class Question
         System.out.println(text);
     }
     
+    public String getText(){
+        return text;
+    }
+    public String getAnswer(){
+        return answer;
+    }
+    
     public static void main(String args[]){
         Scanner in = new Scanner(System.in);
         
@@ -44,7 +51,7 @@ public class Question
         mine.display();
         System.out.print(mine.checkAnswer(in.nextLine()));
         
-        
+       
         
     }
 }
