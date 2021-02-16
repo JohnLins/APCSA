@@ -10,4 +10,6 @@ comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ value.\r\n\ \ \ \ \ \ @return\ th
 comment3.params=
 comment3.target=java.lang.String\ getName()
 comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ name.\r\n\ \ \ \ \ \ @return\ the\ name\r\n
-numComments=4
+comment4.params=otherObject
+comment4.target=int\ compareTo(java.lang.Object)
+numComments=5

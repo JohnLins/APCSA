@@ -1,3 +1,4 @@
+
 /**
    A coin with a monetary value.
 */
@@ -34,4 +35,15 @@ public class Coin implements Comparable
    {
       return name;
    }
+   
+   public int compareTo(Object otherObject){
+     Coin other = (Coin) otherObject;
+     if(value < other.value){
+         return -1;
+        } else if (value > other.value){
+         return 1;   
+        } else {
+         return 0;   
+        }
+    }
 }
