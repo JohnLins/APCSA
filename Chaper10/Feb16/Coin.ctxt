@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\r\n\ \ \ A\ coin\ with\ a\ monetary\ value.\r\n
+comment1.params=aValue\ aName
+comment1.target=Coin(double,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ \ \ Constructs\ a\ coin.\r\n\ \ \ \ \ \ @param\ aValue\ the\ monetary\ value\ of\ the\ coin.\r\n\ \ \ \ \ \ @param\ aName\ the\ name\ of\ the\ coin\r\n
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ value.\r\n\ \ \ \ \ \ @return\ the\ value\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ name.\r\n\ \ \ \ \ \ @return\ the\ name\r\n
+numComments=4

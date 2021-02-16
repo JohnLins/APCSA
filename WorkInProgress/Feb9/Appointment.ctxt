@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Appointment
+comment1.params=y\ m\ d\ de
+comment1.target=Appointment(int,\ int,\ int,\ java.lang.String)
+comment2.params=year\ month\ day
+comment2.target=boolean\ occursOn(int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ des()
+numComments=4
