@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=objects\ meas
+comment1.target=double\ average(java.lang.Object[],\ Measurer)
+comment2.params=anObject\ anObject2\ m
+comment2.target=java.lang.Object\ max(java.lang.Object,\ java.lang.Object,\ Measurer)
+numComments=3

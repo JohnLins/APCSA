@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=AreaMeasurer
+comment1.params=anObject
+comment1.target=double\ measure(java.lang.Object)
+numComments=2
