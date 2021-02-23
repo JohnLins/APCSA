@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bag
+comment1.params=itemName
+comment1.target=void\ add(java.lang.String)
+comment2.params=itemName
+comment2.target=int\ count(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
