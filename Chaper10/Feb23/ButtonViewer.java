@@ -37,6 +37,23 @@ private static final int FRAME_HEIGHT = 60;
         
         frame.setVisible(true);
         
+        
+        
+        
+       
+        
+        JButton button2 = new JButton("Click me!");
+        
+        frame.add(button2);
+       
+        
+        ActionListener listener2 = new ClickListener();
+        
+        button2.addActionListener(listener2);
+        
+        
+        
+        
     }
 
  }
