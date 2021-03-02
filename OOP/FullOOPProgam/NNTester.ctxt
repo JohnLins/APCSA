@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NNTester
+comment1.params=nol\ npl
+comment1.target=NeuralNetwork(int,\ int)
+comment2.params=
+comment2.target=void\ addLayerAndNodes()
+comment3.params=
+comment3.target=int\ howManyLayers()
+comment4.params=
+comment4.target=int\ howManyNodes()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

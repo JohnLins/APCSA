@@ -16,12 +16,10 @@ class Car extends Vehicle
     } 
 } 
   
-/* Driver program to test */
-class Test 
-{ 
-    public static void main(String[] args) 
-    { 
-        Car small = new Car(); 
-        small.display(); 
-    } 
-} 
+
+public class VehicleTester {
+    public static void main(String args[]){
+        Car mine = new Car();
+        mine.display();
+    }
+}
