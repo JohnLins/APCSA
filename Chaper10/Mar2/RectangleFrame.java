@@ -39,22 +39,22 @@ public RectangleFrame()
 
 {
 
-scene = new RectangleComponent();
+    scene = new RectangleComponent();
+    
+    add(scene);
+    
+    setSize(FRAME_WIDTH, FRAME_HEIGHT);
+    
+    
+    ActionListener listener = new TimerListener();
+    
+    
+    
+     final int DELAY = 100; 
+    
+     Timer t = new Timer(DELAY, listener);
 
-add(scene);
-
-setSize(FRAME_WIDTH, FRAME_HEIGHT);
-
-
-ActionListener listener = new TimerListener();
-
-
-
- final int DELAY = 100; 
-
- Timer t = new Timer(DELAY, listener);
-
-t.start();
+    t.start();
 
 }
 
