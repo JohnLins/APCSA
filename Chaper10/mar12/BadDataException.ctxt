@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BadDataException
+comment1.params=
+comment1.target=BadDataException()
+comment2.params=message
+comment2.target=BadDataException(java.lang.String)
+numComments=3

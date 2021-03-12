@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DataSetReader
+comment1.params=filename
+comment1.target=double[]\ readFile(java.lang.String)
+comment2.params=in
+comment2.target=void\ readData(java.util.Scanner)
+comment3.params=in\ i
+comment3.target=void\ readValue(java.util.Scanner,\ int)
+numComments=4
