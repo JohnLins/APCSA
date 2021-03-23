@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ArrayUtil
+comment1.params=length\ n
+comment1.target=int[]\ randomIntArray(int,\ int)
+comment2.params=a\ i\ j
+comment2.target=void\ swap(int[],\ int,\ int)
+numComments=3

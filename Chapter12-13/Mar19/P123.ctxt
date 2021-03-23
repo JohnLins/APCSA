@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=P123
+comment1.params=stringQuestions
+comment1.target=P123(java.lang.String)
+comment2.params=
+comment2.target=double\ ask()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VendingMachine
+comment1.params=p
+comment1.target=VendingMachine(java.util.ArrayList)
+comment2.params=product
+comment2.target=void\ add(Product)
+comment3.params=product\ payment
+comment3.target=double\ purchase(java.lang.String,\ double)
+numComments=4
