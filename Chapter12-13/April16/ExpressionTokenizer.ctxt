@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ExpressionTokenizer
+comment1.params=anInput
+comment1.target=ExpressionTokenizer(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ peekToken()
+comment3.params=
+comment3.target=java.lang.String\ nextToken()
+numComments=4

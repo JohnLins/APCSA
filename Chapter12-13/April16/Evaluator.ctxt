@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Evaluator
+comment1.params=anExpression
+comment1.target=Evaluator(java.lang.String)
+comment2.params=
+comment2.target=int\ getExpressionValue()
+comment3.params=
+comment3.target=int\ getTermValue()
+comment4.params=
+comment4.target=int\ getFactorValue()
+numComments=5
